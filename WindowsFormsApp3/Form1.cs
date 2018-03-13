@@ -54,8 +54,8 @@ namespace WindowsFormsApp3
                         noSpace.BalloonTipIcon = ToolTipIcon.Error;
                         noSpace.Visible = true;
                         noSpace.ShowBalloonTip(5000);
-                        this.Enabled = false;
-                    }
+                        ((Control)MainWindow).Enabled = false;
+                }
 
 
                     if ( netconnection == true && globalNet == true )
@@ -66,7 +66,7 @@ namespace WindowsFormsApp3
                         noInternet.BalloonTipIcon = ToolTipIcon.Info;
                         noInternet.Visible = true;
                         noInternet.ShowBalloonTip(5000);
-                        this.Enabled = false;
+                        ((Control)MainWindow).Enabled = false;
                         netLabel.Visible = true;
                         globalNet = false;
                     }
@@ -75,8 +75,8 @@ namespace WindowsFormsApp3
                     {
                         globalNet = true;
 
-                        this.Enabled = true;
-                        netLabel.Visible = false;
+                    ((Control)MainWindow).Enabled = true;
+                    netLabel.Visible = false;
                     }
                 }
         }
