@@ -55,10 +55,10 @@ namespace WindowsFormsApp3
                         noSpace.Visible = true;
                         noSpace.ShowBalloonTip(5000);
                         ((Control)MainWindow).Enabled = false;
-                }
+                    }
 
 
-                    if ( netconnection == true && globalNet == true )
+                    if ( netconnection == false && globalNet == true )
                     {
                         noInternet.Icon = SystemIcons.Exclamation;
                         noInternet.BalloonTipTitle = "No internet";
@@ -71,12 +71,11 @@ namespace WindowsFormsApp3
                         globalNet = false;
                     }
 
-                    else if ( netconnection == false && globalNet == false )
+                    else if ( netconnection == true && globalNet == false )
                     {
                         globalNet = true;
-
-                    ((Control)MainWindow).Enabled = true;
-                    netLabel.Visible = false;
+                        ((Control)MainWindow).Enabled = true;
+                        netLabel.Visible = false;
                     }
                 }
         }
