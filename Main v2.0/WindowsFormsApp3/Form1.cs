@@ -47,7 +47,7 @@ namespace WindowsFormsApp3
                     DriveInfo c = new DriveInfo("C");
                     double cAvailableSpace = c.AvailableFreeSpace / (1024 * 1024);
 
-                    if ( cAvailableSpace > 1024 && globalSpace == true ) //MEGABYTES
+                    if ( cAvailableSpace < 1024 && globalSpace == true ) //MEGABYTES
                     {
                         noSpace.Icon = SystemIcons.Exclamation;
                         noSpace.BalloonTipTitle = "No available space";
