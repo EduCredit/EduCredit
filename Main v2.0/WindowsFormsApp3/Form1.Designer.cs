@@ -91,7 +91,6 @@
             this.netLabel.Name = "netLabel";
             this.netLabel.Size = new System.Drawing.Size(364, 129);
             this.netLabel.TabIndex = 2;
-            this.netLabel.Text = "Няма връзка с интернет!";
             this.netLabel.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             this.netLabel.Visible = false;
             this.netLabel.Click += new System.EventHandler(this.netLabel_Click);

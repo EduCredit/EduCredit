@@ -12,6 +12,7 @@ namespace WindowsFormsApp3
     {
         public int counter = 0;
         public bool globalNet = true;
+        public bool globalSpace = true;
 
         public EduCredit()
         {
@@ -46,7 +47,7 @@ namespace WindowsFormsApp3
                     DriveInfo c = new DriveInfo("C");
                     double cAvailableSpace = c.AvailableFreeSpace / (1024 * 1024);
 
-                    if ( cAvailableSpace < 1024 ) //MEGABYTES
+                    if ( cAvailableSpace > 1024 && globalSpace == true ) //MEGABYTES
                     {
                         noSpace.Icon = SystemIcons.Exclamation;
                         noSpace.BalloonTipTitle = "No available space";
@@ -54,7 +55,10 @@ namespace WindowsFormsApp3
                         noSpace.BalloonTipIcon = ToolTipIcon.Error;
                         noSpace.Visible = true;
                         noSpace.ShowBalloonTip(5000);
+                        netLabel.Text = "Няма достатъчно място на диска!";
                         ((Control)MainWindow).Enabled = false;
+                        netLabel.Visible = true;
+                        globalSpace = false;
                     }
 
 
@@ -66,6 +70,7 @@ namespace WindowsFormsApp3
                         noInternet.BalloonTipIcon = ToolTipIcon.Info;
                         noInternet.Visible = true;
                         noInternet.ShowBalloonTip(5000);
+                        netLabel.Text = "Няма връзка с интернет!";
                         ((Control)MainWindow).Enabled = false;
                         netLabel.Visible = true;
                         globalNet = false;
@@ -77,7 +82,13 @@ namespace WindowsFormsApp3
                         ((Control)MainWindow).Enabled = true;
                         netLabel.Visible = false;
                     }
-                }
+                    else if (cAvailableSpace < 1024 && globalSpace == false)
+                    {
+                        globalSpace = true;
+                        ((Control)MainWindow).Enabled = true;
+                        netLabel.Visible = false;
+                    }
+            }
         }
 
         private void notifyIcon1_MouseDoubleClick(object sender, MouseEventArgs e)

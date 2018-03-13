@@ -37,3 +37,13 @@ E:\kamui\EduCredit\main2.0\WindowsFormsApp3\obj\Release\WindowsFormsApp3.csproj.
 E:\kamui\EduCredit\main2.0\WindowsFormsApp3\obj\Release\WindowsFormsApp3.csproj.CoreCompileInputs.cache
 E:\kamui\EduCredit\main2.0\WindowsFormsApp3\obj\Release\WindowsFormsApp3.exe
 E:\kamui\EduCredit\main2.0\WindowsFormsApp3\obj\Release\WindowsFormsApp3.pdb
+D:\Мишо\Edu\EduGit\EduCredit\Main v2.0\WindowsFormsApp3\bin\Release\WindowsFormsApp3.exe.config
+D:\Мишо\Edu\EduGit\EduCredit\Main v2.0\WindowsFormsApp3\bin\Release\WindowsFormsApp3.exe
+D:\Мишо\Edu\EduGit\EduCredit\Main v2.0\WindowsFormsApp3\bin\Release\WindowsFormsApp3.pdb
+D:\Мишо\Edu\EduGit\EduCredit\Main v2.0\WindowsFormsApp3\obj\Release\WindowsFormsApp3.csprojResolveAssemblyReference.cache
+D:\Мишо\Edu\EduGit\EduCredit\Main v2.0\WindowsFormsApp3\obj\Release\WindowsFormsApp3.EduCredit.resources
+D:\Мишо\Edu\EduGit\EduCredit\Main v2.0\WindowsFormsApp3\obj\Release\WindowsFormsApp3.Properties.Resources.resources
+D:\Мишо\Edu\EduGit\EduCredit\Main v2.0\WindowsFormsApp3\obj\Release\WindowsFormsApp3.csproj.GenerateResource.Cache
+D:\Мишо\Edu\EduGit\EduCredit\Main v2.0\WindowsFormsApp3\obj\Release\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+D:\Мишо\Edu\EduGit\EduCredit\Main v2.0\WindowsFormsApp3\obj\Release\WindowsFormsApp3.exe
+D:\Мишо\Edu\EduGit\EduCredit\Main v2.0\WindowsFormsApp3\obj\Release\WindowsFormsApp3.pdb
