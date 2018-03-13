@@ -1,0 +1,39 @@
+d:\)__\C#\new\EDU\builtin calendar\WindowsFormsApp3\bin\Release\WindowsFormsApp3.exe.config
+d:\)__\C#\new\EDU\builtin calendar\WindowsFormsApp3\bin\Release\WindowsFormsApp3.exe
+d:\)__\C#\new\EDU\builtin calendar\WindowsFormsApp3\bin\Release\WindowsFormsApp3.pdb
+d:\)__\C#\new\EDU\builtin calendar\WindowsFormsApp3\obj\Release\WindowsFormsApp3.EduCredit.resources
+d:\)__\C#\new\EDU\builtin calendar\WindowsFormsApp3\obj\Release\WindowsFormsApp3.Properties.Resources.resources
+d:\)__\C#\new\EDU\builtin calendar\WindowsFormsApp3\obj\Release\WindowsFormsApp3.csproj.GenerateResource.Cache
+d:\)__\C#\new\EDU\builtin calendar\WindowsFormsApp3\obj\Release\WindowsFormsApp3.exe
+d:\)__\C#\new\EDU\builtin calendar\WindowsFormsApp3\obj\Release\WindowsFormsApp3.pdb
+d:\)__\C#\new\EDU\builtin calendar\WindowsFormsApp3\obj\Release\WindowsFormsApp3.csprojResolveAssemblyReference.cache
+E:\kamui\EduCredit\main\WindowsFormsApp3\bin\Release\WindowsFormsApp3.exe.config
+E:\kamui\EduCredit\main\WindowsFormsApp3\bin\Release\WindowsFormsApp3.exe
+E:\kamui\EduCredit\main\WindowsFormsApp3\bin\Release\WindowsFormsApp3.pdb
+E:\kamui\EduCredit\main\WindowsFormsApp3\obj\Release\WindowsFormsApp3.csprojResolveAssemblyReference.cache
+E:\kamui\EduCredit\main\WindowsFormsApp3\obj\Release\WindowsFormsApp3.EduCredit.resources
+E:\kamui\EduCredit\main\WindowsFormsApp3\obj\Release\WindowsFormsApp3.Properties.Resources.resources
+E:\kamui\EduCredit\main\WindowsFormsApp3\obj\Release\WindowsFormsApp3.csproj.GenerateResource.cache
+E:\kamui\EduCredit\main\WindowsFormsApp3\obj\Release\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+E:\kamui\EduCredit\main\WindowsFormsApp3\obj\Release\WindowsFormsApp3.exe
+E:\kamui\EduCredit\main\WindowsFormsApp3\obj\Release\WindowsFormsApp3.pdb
+d:\Мишо\Edu\main\WindowsFormsApp3\bin\Release\WindowsFormsApp3.exe.config
+d:\Мишо\Edu\main\WindowsFormsApp3\bin\Release\WindowsFormsApp3.exe
+d:\Мишо\Edu\main\WindowsFormsApp3\bin\Release\WindowsFormsApp3.pdb
+d:\Мишо\Edu\main\WindowsFormsApp3\obj\Release\WindowsFormsApp3.csprojResolveAssemblyReference.cache
+d:\Мишо\Edu\main\WindowsFormsApp3\obj\Release\WindowsFormsApp3.EduCredit.resources
+d:\Мишо\Edu\main\WindowsFormsApp3\obj\Release\WindowsFormsApp3.Properties.Resources.resources
+d:\Мишо\Edu\main\WindowsFormsApp3\obj\Release\WindowsFormsApp3.csproj.GenerateResource.Cache
+d:\Мишо\Edu\main\WindowsFormsApp3\obj\Release\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+d:\Мишо\Edu\main\WindowsFormsApp3\obj\Release\WindowsFormsApp3.exe
+d:\Мишо\Edu\main\WindowsFormsApp3\obj\Release\WindowsFormsApp3.pdb
+E:\kamui\EduCredit\main2.0\WindowsFormsApp3\bin\Release\WindowsFormsApp3.exe.config
+E:\kamui\EduCredit\main2.0\WindowsFormsApp3\bin\Release\WindowsFormsApp3.exe
+E:\kamui\EduCredit\main2.0\WindowsFormsApp3\bin\Release\WindowsFormsApp3.pdb
+E:\kamui\EduCredit\main2.0\WindowsFormsApp3\obj\Release\WindowsFormsApp3.csprojResolveAssemblyReference.cache
+E:\kamui\EduCredit\main2.0\WindowsFormsApp3\obj\Release\WindowsFormsApp3.EduCredit.resources
+E:\kamui\EduCredit\main2.0\WindowsFormsApp3\obj\Release\WindowsFormsApp3.Properties.Resources.resources
+E:\kamui\EduCredit\main2.0\WindowsFormsApp3\obj\Release\WindowsFormsApp3.csproj.GenerateResource.cache
+E:\kamui\EduCredit\main2.0\WindowsFormsApp3\obj\Release\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+E:\kamui\EduCredit\main2.0\WindowsFormsApp3\obj\Release\WindowsFormsApp3.exe
+E:\kamui\EduCredit\main2.0\WindowsFormsApp3\obj\Release\WindowsFormsApp3.pdb

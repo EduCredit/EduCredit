@@ -1,0 +1,21 @@
+C:\Users\niki\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csprojResolveAssemblyReference.cache
+C:\Users\niki\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+C:\Users\niki\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form2.resources
+C:\Users\niki\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\niki\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.Cache
+C:\Users\niki\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\niki\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\niki\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\Users\niki\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\niki\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\Users\niki\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+d:\)__\C#\new\EDU\builtin calendar\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+d:\)__\C#\new\EDU\builtin calendar\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+d:\)__\C#\new\EDU\builtin calendar\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+d:\)__\C#\new\EDU\builtin calendar\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csprojResolveAssemblyReference.cache
+d:\)__\C#\new\EDU\builtin calendar\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+d:\)__\C#\new\EDU\builtin calendar\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form2.resources
+d:\)__\C#\new\EDU\builtin calendar\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+d:\)__\C#\new\EDU\builtin calendar\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.Cache
+d:\)__\C#\new\EDU\builtin calendar\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+d:\)__\C#\new\EDU\builtin calendar\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
